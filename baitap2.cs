@@ -23,7 +23,7 @@ class Program
         {
             new Student{ Id = 1, Name = "Thinh", Age = 16 },
             new Student{ Id = 2, Name = "Phuong", Age = 18 },
-            new Student{ Id = 3, Name = "Hoang", Age = 20 },
+            new Student{ Id = 3, Name = "Anh", Age = 20 },
             new Student{ Id = 4, Name = "Dat", Age = 15 },
             new Student{ Id = 5, Name = "Tuan", Age = 17 }
         };
