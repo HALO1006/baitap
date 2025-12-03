@@ -1,0 +1,10 @@
+A:\C#\BTVNbuoi4\BTVNbuoi4\bin\Debug\BTVNbuoi4.exe.config
+A:\C#\BTVNbuoi4\BTVNbuoi4\bin\Debug\BTVNbuoi4.exe
+A:\C#\BTVNbuoi4\BTVNbuoi4\bin\Debug\BTVNbuoi4.pdb
+A:\C#\BTVNbuoi4\BTVNbuoi4\obj\Debug\BTVNbuoi4.csproj.AssemblyReference.cache
+A:\C#\BTVNbuoi4\BTVNbuoi4\obj\Debug\BTVNbuoi4.Form1.resources
+A:\C#\BTVNbuoi4\BTVNbuoi4\obj\Debug\BTVNbuoi4.Properties.Resources.resources
+A:\C#\BTVNbuoi4\BTVNbuoi4\obj\Debug\BTVNbuoi4.csproj.GenerateResource.cache
+A:\C#\BTVNbuoi4\BTVNbuoi4\obj\Debug\BTVNbuoi4.csproj.CoreCompileInputs.cache
+A:\C#\BTVNbuoi4\BTVNbuoi4\obj\Debug\BTVNbuoi4.exe
+A:\C#\BTVNbuoi4\BTVNbuoi4\obj\Debug\BTVNbuoi4.pdb
