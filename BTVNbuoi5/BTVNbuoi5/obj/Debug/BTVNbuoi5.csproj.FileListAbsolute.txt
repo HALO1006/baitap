@@ -1,0 +1,15 @@
+A:\C#\BTVNbuoi5\BTVNbuoi5\bin\Debug\BTVNbuoi5.exe.config
+A:\C#\BTVNbuoi5\BTVNbuoi5\bin\Debug\BTVNbuoi5.exe
+A:\C#\BTVNbuoi5\BTVNbuoi5\bin\Debug\BTVNbuoi5.pdb
+A:\C#\BTVNbuoi5\BTVNbuoi5\obj\Debug\BTVNbuoi5.csproj.AssemblyReference.cache
+A:\C#\BTVNbuoi5\BTVNbuoi5\obj\Debug\BTVNbuoi5.Form1.resources
+A:\C#\BTVNbuoi5\BTVNbuoi5\obj\Debug\BTVNbuoi5.Properties.Resources.resources
+A:\C#\BTVNbuoi5\BTVNbuoi5\obj\Debug\BTVNbuoi5.csproj.GenerateResource.cache
+A:\C#\BTVNbuoi5\BTVNbuoi5\obj\Debug\BTVNbuoi5.csproj.CoreCompileInputs.cache
+A:\C#\BTVNbuoi5\BTVNbuoi5\obj\Debug\BTVNbuoi5.exe
+A:\C#\BTVNbuoi5\BTVNbuoi5\obj\Debug\BTVNbuoi5.pdb
+A:\C#\BTVNbuoi5\BTVNbuoi5\bin\Debug\EntityFramework.dll
+A:\C#\BTVNbuoi5\BTVNbuoi5\bin\Debug\EntityFramework.SqlServer.dll
+A:\C#\BTVNbuoi5\BTVNbuoi5\bin\Debug\EntityFramework.xml
+A:\C#\BTVNbuoi5\BTVNbuoi5\bin\Debug\EntityFramework.SqlServer.xml
+A:\C#\BTVNbuoi5\BTVNbuoi5\obj\Debug\BTVNbuoi5.csproj.Up2Date
