@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Lab05.BUS/Lab05.BUS.csproj" Id="1fad45bb-eeee-46a1-b15f-aab3baae699a" />
+  <Project Path="Lab05.DAL/Lab05.DAL.csproj" Id="0f808990-24ef-4c7d-a828-bca69403d49e" />
+  <Project Path="Lab05.GUI/Lab05.GUI.csproj" Id="238c82d5-229c-4100-a780-a22bd7f9d177" />
+</Solution>
