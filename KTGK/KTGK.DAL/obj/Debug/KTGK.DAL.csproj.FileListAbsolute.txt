@@ -1,0 +1,12 @@
+A:\C#\KTGK\KTGK.DAL\bin\Debug\KTGK.DAL.dll.config
+A:\C#\KTGK\KTGK.DAL\bin\Debug\KTGK.DAL.dll
+A:\C#\KTGK\KTGK.DAL\bin\Debug\KTGK.DAL.pdb
+A:\C#\KTGK\KTGK.DAL\bin\Debug\EntityFramework.dll
+A:\C#\KTGK\KTGK.DAL\bin\Debug\EntityFramework.SqlServer.dll
+A:\C#\KTGK\KTGK.DAL\bin\Debug\EntityFramework.xml
+A:\C#\KTGK\KTGK.DAL\bin\Debug\EntityFramework.SqlServer.xml
+A:\C#\KTGK\KTGK.DAL\obj\Debug\KTGK.DAL.csproj.AssemblyReference.cache
+A:\C#\KTGK\KTGK.DAL\obj\Debug\KTGK.DAL.csproj.CoreCompileInputs.cache
+A:\C#\KTGK\KTGK.DAL\obj\Debug\KTGK.DAL.csproj.Up2Date
+A:\C#\KTGK\KTGK.DAL\obj\Debug\KTGK.DAL.dll
+A:\C#\KTGK\KTGK.DAL\obj\Debug\KTGK.DAL.pdb

@@ -1,0 +1,15 @@
+A:\C#\KTGK\KTGK.BUS\bin\Debug\KTGK.BUS.dll.config
+A:\C#\KTGK\KTGK.BUS\bin\Debug\KTGK.BUS.dll
+A:\C#\KTGK\KTGK.BUS\bin\Debug\KTGK.BUS.pdb
+A:\C#\KTGK\KTGK.BUS\bin\Debug\EntityFramework.dll
+A:\C#\KTGK\KTGK.BUS\bin\Debug\EntityFramework.SqlServer.dll
+A:\C#\KTGK\KTGK.BUS\bin\Debug\KTGK.DAL.dll
+A:\C#\KTGK\KTGK.BUS\bin\Debug\KTGK.DAL.pdb
+A:\C#\KTGK\KTGK.BUS\bin\Debug\KTGK.DAL.dll.config
+A:\C#\KTGK\KTGK.BUS\bin\Debug\EntityFramework.xml
+A:\C#\KTGK\KTGK.BUS\bin\Debug\EntityFramework.SqlServer.xml
+A:\C#\KTGK\KTGK.BUS\obj\Debug\KTGK.BUS.csproj.AssemblyReference.cache
+A:\C#\KTGK\KTGK.BUS\obj\Debug\KTGK.BUS.csproj.CoreCompileInputs.cache
+A:\C#\KTGK\KTGK.BUS\obj\Debug\KTGK.BUS.csproj.Up2Date
+A:\C#\KTGK\KTGK.BUS\obj\Debug\KTGK.BUS.dll
+A:\C#\KTGK\KTGK.BUS\obj\Debug\KTGK.BUS.pdb

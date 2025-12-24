@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="KTGK.BUS/KTGK.BUS.csproj" />
+  <Project Path="KTGK.DAL/KTGK.DAL.csproj" />
+  <Project Path="KTGK.GUI/KTGK.GUI.csproj" />
+</Solution>
